@@ -57,12 +57,10 @@ AnatomicalPointProcessor.create().process_all_models(
 
 ### Publications
 >**[Comparing Human Pose Estimation Models for Assessing Upper Limb Range of Motion](https://doi.org/10.3390/s24247983)**
-
 [![DOI Badge](https://img.shields.io/badge/DOI-10.3390%2Fs24247983-brightgreen?style=flat-square&logo=DOI&logoColor=white&link=https://doi.org/10.3390/s24247983)](https://doi.org/10.3390/s24247983)
 
 ## Contributing
 >If there is a bug, or other improvement you would like to report or request, we encourage you to contribute.
 
 >Please, feel free to contact us for any questions:
-
 [![Gmail Badge](https://img.shields.io/badge/-ariel.teles@ifma.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ariel.teles@ifma.edu.br)](mailto:ariel.teles@ifma.edu.br)
